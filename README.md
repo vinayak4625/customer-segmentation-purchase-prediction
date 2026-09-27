@@ -94,7 +94,3 @@ Python · NumPy · Pandas · Matplotlib · Seaborn · SciPy · Scikit-learn · J
 - Class imbalance could be addressed more directly with SMOTE / resampling.
 - Models could be hyperparameter-tuned with `GridSearchCV` and cross-validation for a fairer comparison.
 
-## License
-
-This project is released under the [MIT License](LICENSE). The dataset is provided by the UCI Machine
-Learning Repository and is subject to its own terms.
